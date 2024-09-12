@@ -19,3 +19,5 @@ Vim is in its own repo on the vim branch.
 * Add gdscript language support for vim-lsp
 * Remove nvim setup and make vim the main branch again. I'm going to stick with vim.
 * Find out if there is a way to bring treesitter to vim
+* Set up alacritty config
+* Set up GNU stow
