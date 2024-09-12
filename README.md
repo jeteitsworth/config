@@ -10,7 +10,7 @@ Vim is in its own repo on the vim branch.
 
 ## Misc
 1. Install homebrew `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
-2. Install `fd ripgrep bat lsd fzf tldr cheat lazygit python3`
+2. Install `fd ripgrep bat lsd fzf tldr cheat lazygit python3 gomono-nerd-font`
 3. Install jedi-language-server from pip `pip install -U jedi-language-server`
 
 ## TODO
