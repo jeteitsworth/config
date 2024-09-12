@@ -8,3 +8,4 @@ Vim is in its own repo on the vim branch.
 2. Copy zshrc to home directory `cp zshrc $HOME/.zshrc`
 3. Install autocomplete
 
+
