@@ -9,10 +9,11 @@ Vim is in its own repo on the vim branch.
 3. Install autosuggestions `git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions`
 
 ## Misc
-1. Install homebrew (Mac, Debian, and Ubuntu-derivitives only) `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
-2. Install `fd ripgrep bat lsd fzf tldr cheat lazygit python gomono-nerd-font gh`
-3. Install pipx `brew install pipx` then run `pipx ensurepath` and `pipx ensurepath --global`
-4. Install jedi language server with pip (preferably pipx)  
+1. Install go tooling `curl -sS https://webi.sh/go-essentials | sh`
+3. Install homebrew (Mac, Debian, and Ubuntu-derivitives only) `curl -sS https://webi.sh/brew | sh"`
+4. Install `fd ripgrep bat lsd fzf tldr cheat lazygit python gomono-nerd-font gh  pandoc` with brew
+5. Install pipx `brew install pipx` then run `pipx ensurepath` and `pipx ensurepath --global`
+6. Install jedi language server with pipx
 
 ## Todo
 - [ ] Migrate to vim-lsp
